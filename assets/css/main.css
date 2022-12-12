@@ -7084,12 +7084,12 @@ h6.post-title {
 }
 
 .logo.logo-width-1 {
-  margin-right: 70px;
+  margin-right: 20px;
 }
 
 .logo.logo-width-1 a img {
-  width: 180px;
-  min-width: 180px;
+  width: 10px;
+  min-width: 160px;
 }
 
 .search-style-1 form {
